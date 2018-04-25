@@ -63,12 +63,14 @@ span.gray {
   display: inline-block;
   width: 33.33%;
   line-height: 38px;
+  margin: 0;
   text-align: center;
   color: #2196f3;
   text-decoration: none;
   border: none;
   background-color: #ffffff;
   cursor: pointer;
+  outline: none;
 }
 .currency button:first-child {
   box-sizing: border-box;
